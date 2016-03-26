@@ -1,0 +1,14 @@
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\DIUnittest.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\DIUnittest.pdb
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\DependencyInjection.exe
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\DependencyInjection.pdb
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\obj\Debug\DIUnittest.csprojResolveAssemblyReference.cache
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\obj\Debug\DIUnittest.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\obj\Debug\DIUnittest.pdb
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\u254010\Documents\Visual Studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\u254010\Documents\Visual Studio 2013\Projects\DependencyInjection\DIUnittest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
