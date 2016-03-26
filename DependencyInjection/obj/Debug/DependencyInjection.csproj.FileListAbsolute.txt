@@ -1,0 +1,15 @@
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\u254010\documents\visual studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
